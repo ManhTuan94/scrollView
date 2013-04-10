@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<array>
+		<string>Kaka&apos;</string>
+		<string>Messi</string>
+		<string>Ronaldo</string>
+		<string>Torres</string>
+		<string>DrogBa</string>
+		<string>Suarez</string>
+		<string>Casillas</string>
+		<string>David Luiz</string>
+		<string>Thiago Silva</string>
+		<string>Dani Alves</string>
+	</array>
+	<key>Photo</key>
+	<array>
+		<string>kaka1.png</string>
+		<string>messi.jpg</string>
+		<string>ronaldo.jpg</string>
+		<string>torres.jpg</string>
+		<string>drogba.jpg</string>
+		<string>suarez.jpg</string>
+		<string>casillas.jpg</string>
+		<string>david luiz.jpg</string>
+		<string>silva.jpg</string>
+		<string>alves.jpg</string>
+	</array>
+	<key>Age</key>
+	<array>
+		<string>30</string>
+		<string>26</string>
+		<string>27</string>
+		<string>28</string>
+		<string>25</string>
+		<string>23</string>
+		<string>26</string>
+		<string>25</string>
+		<string>28</string>
+		<string>24</string>
+	</array>
+	<key>Team</key>
+	<array>
+		<string>Real</string>
+		<string>Barcar</string>
+		<string>Real</string>
+		<string>Chealsea</string>
+		<string>Galatasaray</string>
+		<string>Liverpool</string>
+		<string>Real</string>
+		<string>Chealsea</string>
+		<string>PSG</string>
+		<string>Barcar</string>
+	</array>
+</dict>
+</plist>
